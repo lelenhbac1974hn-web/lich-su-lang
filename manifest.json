@@ -1,0 +1,30 @@
+{
+ "name": "Lịch sử làng",
+ "short_name": "Lịch sử làng",
+ "description": "Từ 6 người dựng làng tới siêu cường. © 2026 Lê Lệnh Bắc",
+ "lang": "vi",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#1b1e24",
+ "theme_color": "#1b1e24",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
